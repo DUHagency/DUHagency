@@ -1,0 +1,33 @@
+The Companies Filing status will be in Maine or New Hampshire, or both.  (Can't really beat New Hampshire tax, and legal expense to file in Delaware is crazy. Maybe consider Nevada, haven't really looked into it)
+- [[Maine Residency Status]]
+- Maine is functional the best state to get involved with and file in for DUH.
+	- Low pop
+		- Easier to map
+	- Resources
+		- free college for residence
+		- get a cpa without proper degree
+		- become a lawyer through apprentice ship, [[Bar states|see here]].
+		- Most [[PEG]] per capita
+		- crazy networking both local and nationally.
+			- Maine's population increases by 2700% every July from Tourism.
+			- For every 27 people there is 1 townie in July.
+			- thee most exaggerated cause of a state for tourism.
+			- the only comparison is Beach towns, and they aren't whole states.
+			- This means we met mostly people from all over the US and World (less so now with trump, no tourism internationally) during the summer.
+			- We have a very strong bond to the residents.
+				- Lol, they're not from here, we're from here culture.
+		- Cultural supremacy
+			- Maine's [[Aroostock county]] is desperate to save French and their Acadian Heritage.
+				- This could be supported by building business geared towards hiring [[French Speaking Refugees]]
+				- Check the [[Northern Border Regional Commission]] for business incentives
+				- Check `pine zones` for state incentives
+				- Check for 
+			- If Successful Aroostock County HQ would be support the entire [[Francophone]] portion of the site.
+				- International authority status is Broken Down into language.
+- I want to move to Maine.  My brother wants to move to Maine.  Phil would like to move to Maine.
+- [[Maine Airports]]
+	- I want to find property with mixed zoning and acreage within 20 minutes from an airport.
+	- Presque Isle has crazy cheap property, and land.
+	- Macias has cheap ocean front property (no beaches lol).  We could easily start seafood business with minimal resources. Year one would be feeding our selves from oysters, mussels, green crab (unlimited fishing because its an invasive species) and kelp.
+	- Macias has raised the need in town halls about seasonal commercial flights like every year for a decade.
+

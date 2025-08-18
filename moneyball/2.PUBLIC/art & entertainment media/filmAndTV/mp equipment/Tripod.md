@@ -1,0 +1,1 @@
+with fluid head[2](https://www.onassemble.com/blog/essential-filmmaking-gear-checklist)[5](https://tubetrackr.com/cine-equip-checklist)[7](https://www.dtcgrip.com/general/filming-equipment/)

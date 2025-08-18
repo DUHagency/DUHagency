@@ -1,0 +1,20 @@
+{
+  "Appearance@@bg@@dark": "#000000",
+  "Appearance@@bg@@light": "#FFA980",
+  "Editor@@h1-divider-on": false,
+  "Editor@@h1-color@@dark": "#F9FF69",
+  "Editor@@h2-color@@light": "#FF9E00",
+  "Editor@@h2-color@@dark": "#FF9E00",
+  "Editor@@h3-divider-on": false,
+  "Editor@@h3-color@@light": "#FF6969",
+  "Editor@@h3-color@@dark": "#FF6969",
+  "Editor@@h1-color@@light": "#F9FF69",
+  "Editor@@link-color@@light": "#FF4AA6",
+  "Editor@@link-color@@dark": "#FF4AA6",
+  "Editor@@link-color-hover@@light": "#C6008D",
+  "Editor@@link-color-hover@@dark": "#C6008D",
+  "Editor@@bold-color@@light": "#CCFF36",
+  "Editor@@bold-color@@dark": "#CCFF36",
+  "Editor@@h4-color@@light": "#FF4242",
+  "Editor@@h4-color@@dark": "#FF4242"
+}

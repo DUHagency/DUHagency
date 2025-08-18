@@ -1,0 +1,10 @@
+{
+  "findText": "^^",
+  "replaceText": "Top Ten Food Events in",
+  "useRegEx": false,
+  "selOnly": false,
+  "caseInsensitive": false,
+  "processLineBreak": false,
+  "processTab": false,
+  "prefillFind": false
+}

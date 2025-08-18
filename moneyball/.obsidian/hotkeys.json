@@ -1,0 +1,88 @@
+{
+  "terminal:close-terminal": [],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "obsidian-collapse-all-plugin:collapse-file-explorer": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
+    }
+  ],
+  "webviewer:zoom-in": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "="
+    }
+  ],
+  "webviewer:zoom-out": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "-"
+    }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "\\"
+    }
+  ],
+  "workspace:close-window": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "global-search:open": [],
+  "obsidian-linter:lint-all-files": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:toggle-checklist-status": [],
+  "obsidian-linter:lint-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "obsidian-regex-replace:obsidian-regex-replace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "testing-vault:fill-vault": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "1"
+    }
+  ]
+}

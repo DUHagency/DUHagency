@@ -1,0 +1,67 @@
+---
+power: 
+moderator: 
+reference: 
+tags: []
+created: 2025-05-19T18:18
+updated: 2025-08-06T14:15
+date created: Monday, May 19th 2025, 10:18:25 pm
+date modified: Wednesday, August 6th 2025, 2:05:25 am
+time created: Monday, May 19th 2025, 10:18:25 pm
+last update: Thursday, August 7th 2025, 9:27:16 pm
+---
+#Africa #Country 
+[[Algeria]]  
+[[Angola]]  
+[[Benin]]  
+[[Botswana]]  
+[[Burkina Faso]]  
+[[Burundi]]  
+[[Cape Verde]]  
+[[Cameroon]]  
+[[Central African Republic]]  
+[[Chad]]  
+[[Comoros]]  
+[[Congo]]  
+[[Democratic Republic of the Congo]]  
+[[Cote d'Ivoire]]  
+[[Djibouti]]  
+[[Egypt]]  
+[[Equatorial Guinea]]  
+[[Eritrea]]  
+[[Eswatini]]  
+[[Ethiopia]]  
+[[Gabon]]  
+[[Gambia]]  
+[[Ghana]]  
+[[Guinea]]  
+[[Guinea-Bissau]]  
+[[Kenya]]  
+[[Lesotho]]  
+[[Liberia]]  
+[[Libya]]  
+[[Madagascar]]  
+[[Malawi]]  
+[[Mali]]  
+[[Mauritania]]  
+[[Mauritius]]  
+[[Morocco]]  
+[[Mozambique]]  
+[[Namibia]]  
+[[Niger]]  
+[[Nigeria]]  
+[[Rwanda]]  
+[[Sao Tome and Principe]]  
+[[Senegal]]  
+[[Seychelles]]  
+[[Sierra Leone]]  
+[[Somalia]]  
+[[South Africa]]  
+[[South Sudan]]  
+[[Sudan]]  
+[[Tanzania]]  
+[[Togo]]  
+[[Tunisia]]  
+[[Uganda]]  
+[[Zambia]]  
+[[Zimbabwe]]
