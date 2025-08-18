@@ -1,0 +1,471 @@
+{
+  "workspaces": {
+    "Phil Dashboard": {
+      "main": {
+        "id": "6417f3e96913ae09",
+        "type": "split",
+        "children": [
+          {
+            "id": "ca26de1031696d1a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "51cbdc9aec3a1572",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3.USER/userDashboard/Phil dashboard.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Phil dashboard"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "5d64e8f048e7d45e",
+        "type": "split",
+        "children": [
+          {
+            "id": "18900a52c6258676",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fa1f22a05ad48fdb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "e4ed687ca47dd40c",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "61f29dd0c1e4ef6e",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "eed3134360926776",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Plugin no longer active"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 362.5
+      },
+      "right": {
+        "id": "f6611124048f6cde",
+        "type": "split",
+        "children": [
+          {
+            "id": "95a52d59920b2ac8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "97eb885a3e981132",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "2.PUBLIC/art & entertainment media/filmAndTV/USA Film and TV portal.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for USA Film and TV portal"
+                }
+              },
+              {
+                "id": "707636d74a0ca2cc",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "2.PUBLIC/art & entertainment media/filmAndTV/USA Film and TV portal.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from USA Film and TV portal"
+                }
+              },
+              {
+                "id": "b0ee986d2e95635c",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "acde21a35da8bb40",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "2.PUBLIC/art & entertainment media/filmAndTV/USA Film and TV portal.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of USA Film and TV portal"
+                }
+              },
+              {
+                "id": "24dee75617785bec",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "ddc91cc6c97af87e",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "markdown-importer:Open format converter": false,
+          "zk-prefixer:Create new unique note": false,
+          "random-note:Open random note": false,
+          "audio-recorder:Start/stop recording": false,
+          "workspaces:Manage workspace layouts": false,
+          "publish:Publish changes...": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "tag-page-md:Refresh tag page": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "obsidian-git:Open Git source control": false,
+          "omnisearch:Omnisearch": false,
+          "vscode-editor:Create Code File": false,
+          "terminal:Open terminal": false,
+          "open-vscode:VSCode": false,
+          "obsidian-importer:Open Importer": false,
+          "obsidian-regex-pipeline:Regex Rulesets": false
+        }
+      },
+      "active": "51cbdc9aec3a1572",
+      "mtime": "2025-08-12T15:59:55-04:00"
+    },
+    "Ryan Dashboard": {
+      "main": {
+        "id": "6417f3e96913ae09",
+        "type": "split",
+        "children": [
+          {
+            "id": "ca26de1031696d1a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "51cbdc9aec3a1572",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3.USER/userDashboard/Ryan dashboard.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Ryan dashboard"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "5d64e8f048e7d45e",
+        "type": "split",
+        "children": [
+          {
+            "id": "18900a52c6258676",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fa1f22a05ad48fdb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "e4ed687ca47dd40c",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "61f29dd0c1e4ef6e",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "eed3134360926776",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Plugin no longer active"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 362.5
+      },
+      "right": {
+        "id": "f6611124048f6cde",
+        "type": "split",
+        "children": [
+          {
+            "id": "95a52d59920b2ac8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "97eb885a3e981132",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "2.PUBLIC/art & entertainment media/filmAndTV/USA Film and TV portal.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for USA Film and TV portal"
+                }
+              },
+              {
+                "id": "707636d74a0ca2cc",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "2.PUBLIC/art & entertainment media/filmAndTV/USA Film and TV portal.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from USA Film and TV portal"
+                }
+              },
+              {
+                "id": "b0ee986d2e95635c",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "acde21a35da8bb40",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "2.PUBLIC/art & entertainment media/filmAndTV/USA Film and TV portal.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of USA Film and TV portal"
+                }
+              },
+              {
+                "id": "24dee75617785bec",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "ddc91cc6c97af87e",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "markdown-importer:Open format converter": false,
+          "zk-prefixer:Create new unique note": false,
+          "random-note:Open random note": false,
+          "audio-recorder:Start/stop recording": false,
+          "workspaces:Manage workspace layouts": false,
+          "publish:Publish changes...": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "tag-page-md:Refresh tag page": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "obsidian-git:Open Git source control": false,
+          "omnisearch:Omnisearch": false,
+          "vscode-editor:Create Code File": false,
+          "terminal:Open terminal": false,
+          "open-vscode:VSCode": false,
+          "obsidian-importer:Open Importer": false,
+          "obsidian-regex-pipeline:Regex Rulesets": false
+        }
+      },
+      "active": "51cbdc9aec3a1572",
+      "mtime": "2025-08-12T16:00:32-04:00"
+    }
+  },
+  "active": "Ryan Dashboard"
+}

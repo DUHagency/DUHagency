@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Tokyo Night",
+  "theme": "obsidian",
+  "accentColor": "#ff0000",
+  "enabledCssSnippets": [
+    "auto-collaspe",
+    "heading-collaspe"
+  ]
+}

@@ -1,0 +1,25 @@
+---
+power: 
+moderator: 
+reference: 
+tags: []
+date created: Friday, May 2nd 2025, 4:35:20 pm
+date modified: Wednesday, August 6th 2025, 2:05:17 am
+time created: Friday, May 2nd 2025, 4:35:20 pm
+last update: Thursday, August 7th 2025, 9:27:06 pm
+created: 2025-05-02T12:35
+updated: 2025-08-06T14:15
+---
+#DUH 
+
+# STREAMING
+
+- [[DUH discord]]
+- Debates
+	- batch axioms
+- Interviews
+- etc.
+
+# PICTURES
+# VIDEOS
+# 

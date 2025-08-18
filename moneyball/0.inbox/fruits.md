@@ -1,0 +1,4 @@
+- **Citrus**: Oranges, Lemons, Limes
+- **Berries**: Strawberries, Blueberries, Raspberries
+- **Tropical**: Mango, Pineapple, Banana
+- **Stone Fruits**: Peaches, Plums, Cherries
